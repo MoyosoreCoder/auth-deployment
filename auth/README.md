@@ -17,7 +17,7 @@ nano .env  # (Or use 'vim .env' or any text editor)
 # Add the following lines inside .env (manually)
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
+SECRE_KEYT=your_secret_key
 
-# Start the server
+# Start the server with this command
 npm start
