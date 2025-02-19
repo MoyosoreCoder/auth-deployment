@@ -1,7 +1,7 @@
 {
   "name": "auth",
   "version": "1.0.0",
-  "description": "git clone https://github.com/CODECUBE-001/Co2.git",
+  "description": "git clone https://github.com/MoyosoreCoder/auth-deployment.git",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
