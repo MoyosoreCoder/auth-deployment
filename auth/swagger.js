@@ -12,8 +12,8 @@ const options = {
     },
     servers: [
       {
-        url: "http://localhost:5000/api/auth",
-        description: "Local server",
+        url: "https://auth-deployment.onrender.com/api/auth",
+        description: "Production server",
       },
     ],
   },
