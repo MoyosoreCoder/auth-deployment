@@ -12,7 +12,7 @@ const options = {
     },
     servers: [
       {
-        url: "https://auth-deployment.onrender.com/api/auth",
+        url: "https://auth-deployment.onrender.com",
         description: "Production server",
       },
     ],
