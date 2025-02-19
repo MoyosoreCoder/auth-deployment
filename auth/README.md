@@ -4,16 +4,12 @@ git clone https://github.com/CODECUBE-001/Co2.git
 # Navigate to the auth folder
 cd Co2/auth
 
-# Switch to the correct branch
-git checkout mongodb-auth
 
 # Install dependencies
 npm init -y
 npm install express mongoose dotenv bcryptjs jsonwebtoken cors
 npm install --save-dev nodemon
-
-
-
+run npm run dev
 # Create a .env file and open it in a text editor (or use a terminal editor)
 touch .env
 nano .env  # (Or use 'vim .env' or any text editor)
